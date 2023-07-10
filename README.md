@@ -1,5 +1,7 @@
 # Stock Price Prediction
 
+![python](https://img.shields.io/badge/Python-blue) ![pandas](https://img.shields.io/badge/Pandas-green) ![keras](https://img.shields.io/badge/Keras-green) ![matplotlib](https://img.shields.io/badge/Matplotlib-green)
+
 ## Introduction
 Stock investments play an ever-increasing part in our lives and stock price prediction has been all the rage in recent years, 
 in which many analysts have put much effort. Since the stock prices are volatile, they are difficult to predict accurately. 
